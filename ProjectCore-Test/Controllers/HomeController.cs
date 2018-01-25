@@ -31,5 +31,10 @@ namespace ProjectCore_Test.Controllers
         {
             return View();
         }
+
+        public string Hello()
+        {
+            return "World";
+        }
     }
 }

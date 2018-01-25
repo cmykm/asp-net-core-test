@@ -1,0 +1,11 @@
+C:\Users\pcuser\Source\Repos\NewRepo\ProjectCore-Test\ProjectCore-Test\bin\Debug\netcoreapp1.1\ProjectCore-Test.deps.json
+C:\Users\pcuser\Source\Repos\NewRepo\ProjectCore-Test\ProjectCore-Test\bin\Debug\netcoreapp1.1\ProjectCore-Test.runtimeconfig.json
+C:\Users\pcuser\Source\Repos\NewRepo\ProjectCore-Test\ProjectCore-Test\bin\Debug\netcoreapp1.1\ProjectCore-Test.runtimeconfig.dev.json
+C:\Users\pcuser\Source\Repos\NewRepo\ProjectCore-Test\ProjectCore-Test\bin\Debug\netcoreapp1.1\ProjectCore-Test.dll
+C:\Users\pcuser\Source\Repos\NewRepo\ProjectCore-Test\ProjectCore-Test\bin\Debug\netcoreapp1.1\ProjectCore-Test.pdb
+C:\Users\pcuser\Source\Repos\NewRepo\ProjectCore-Test\ProjectCore-Test\obj\Debug\netcoreapp1.1\ProjectCore-Test.csprojResolveAssemblyReference.cache
+C:\Users\pcuser\Source\Repos\NewRepo\ProjectCore-Test\ProjectCore-Test\obj\Debug\netcoreapp1.1\ProjectCore-Test.csproj.CoreCompileInputs.cache
+C:\Users\pcuser\Source\Repos\NewRepo\ProjectCore-Test\ProjectCore-Test\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\pcuser\Source\Repos\NewRepo\ProjectCore-Test\ProjectCore-Test\obj\Debug\netcoreapp1.1\ProjectCore-Test.AssemblyInfo.cs
+C:\Users\pcuser\Source\Repos\NewRepo\ProjectCore-Test\ProjectCore-Test\obj\Debug\netcoreapp1.1\ProjectCore-Test.dll
+C:\Users\pcuser\Source\Repos\NewRepo\ProjectCore-Test\ProjectCore-Test\obj\Debug\netcoreapp1.1\ProjectCore-Test.pdb
